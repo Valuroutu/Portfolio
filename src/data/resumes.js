@@ -20,7 +20,7 @@ export const resumes = {
     category: "AI & Machine Learning",
     focus: "Machine Learning • Deep Learning • CNN • LLMs • RAG • AI Agents",
     description: "Specialized for Artificial Intelligence, Machine Learning, and GenAI engineering roles.",
-    url: "https://drive.google.com/file/d/1Kt5wN9Afusg3DAnbxwZODi47o9hgj2BL/view?usp=drivesdk" // Paste your AI / ML Resume Google Drive link here
+    url: "https://drive.google.com/file/d/1BtIXFzP_lX2ul7DxbMbcvm8avdp8gAnn/view?usp=drivesdk" // Paste your AI / ML Resume Google Drive link here
   },
 
   blockchain: {
@@ -29,7 +29,7 @@ export const resumes = {
     category: "Blockchain & Web3",
     focus: "Solidity • Foundry • Anvil • Ethers.js • Smart Contracts • Web3",
     description: "Specialized for Smart Contract, Protocol, and Decentralized Application (DApp) development roles.",
-    url: "https://drive.google.com/file/d/1BtIXFzP_lX2ul7DxbMbcvm8avdp8gAnn/view?usp=drivesdk" // Paste your Blockchain / Web3 Resume Google Drive link here
+    url: "https://drive.google.com/file/d/1Kt5wN9Afusg3DAnbxwZODi47o9hgj2BL/view?usp=drivesdk" // Paste your Blockchain / Web3 Resume Google Drive link here
   }
 };
 
